@@ -40,6 +40,3 @@ O sistema mantém espaços e tabs, então pode ser usado com qualquer linguagem 
 
 💡 Projeto destinado a estudantes que querem praticar digitação de código Java ou qualquer outro texto de forma interativa.
 
-
-## Estrutura do projeto
-
